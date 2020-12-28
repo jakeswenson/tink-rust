@@ -8,7 +8,7 @@ license = "Apache-2.0"
 [dependencies]
 aead = { version = "^0.3.2", features = ["std"] }
 aes-siv = "^0.5"
-prost = "^0.6.1"
+prost = "^0.7.0"
 tink = "^0.1"
 
 [dev-dependencies]
